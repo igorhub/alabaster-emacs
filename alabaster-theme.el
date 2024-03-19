@@ -71,17 +71,17 @@
    '(mumamo-background-chunk-submode ((t (:background "#EAEBE6"))))
 
    ;; Font-lock
-   '(font-lock-builtin-face ((t (:foreground "#626FC9"))))
-   '(font-lock-comment-face ((t (:foreground "#7F7F7F"))))
-   '(font-lock-constant-face ((t (:foreground "#7653C1" :background "#F3F2FF"))))
-   '(font-lock-doc-string-face ((t (:foreground "#1A93AE" :background "#F4F9FE"))))
-   '(font-lock-function-name-face ((t (:foreground "#4E279A"))))
-   '(font-lock-keyword-face ((t (:foreground "#6700B9"))))
+   '(font-lock-builtin-face ((t (:foreground "black"))))
+   '(font-lock-comment-face ((t (:foreground "#AA3731"))))
+   '(font-lock-constant-face ((t (:foreground "#7A3E9D"))))
+   '(font-lock-doc-string-face ((t (:foreground "#AA3731"))))
+   '(font-lock-function-name-face ((t (:foreground "#325CC0"))))
+   '(font-lock-keyword-face ((t (:foreground "black"))))
    '(font-lock-preprocessor-face ((t (:foreground "#434343"))))
    '(font-lock-reference-face ((t (:foreground "#4E279A" :background "#F3F2FF"))))
-   '(font-lock-string-face ((t (:foreground "#BC670F" :background "#FDFBF5"))))
-   '(font-lock-type-face ((t (:foreground "#699D36"))))
-   '(font-lock-variable-name-face ((t (:foreground "#7B8C4D"))))
+   '(font-lock-string-face ((t (:foreground "#448C27"))))
+   '(font-lock-type-face ((t (:foreground "black"))))
+   '(font-lock-variable-name-face ((t (:foreground "black"))))
    '(font-lock-warning-face ((t (:foreground "#F93232"))))
 
    ;; Diff Mode
